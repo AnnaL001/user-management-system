@@ -1,8 +1,0 @@
-READ ME FILE
-name              password       role
-aj                12345678       super admin
-jw                1325naftal     admin
-col               123456789      admin
-
-*authors do not have usernames and passwords
-*Webpage should be opened when there's internet access for the styling of webpages to be seen
